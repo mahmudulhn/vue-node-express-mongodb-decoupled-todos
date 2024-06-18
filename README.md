@@ -78,8 +78,3 @@ This stylesheet contains the styles for the application, ensuring it looks clean
 - **Error Handling**: Ensure that both frontend and backend have proper error handling for a smooth user experience.
 - **Security**: Consider implementing authentication and authorization for the API endpoints to secure the todo data.
 
-## License
-[Your License Here]
-
-## Author
-[Your Name Here]
